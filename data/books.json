@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://covers.openlibrary.org/b/id/8226191-L.jpg"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://covers.openlibrary.org/b/id/8225260-L.jpg"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "image": "https://covers.openlibrary.org/b/id/9641981-L.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://covers.openlibrary.org/b/id/8091016-L.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://covers.openlibrary.org/b/id/8225636-L.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "image": "https://covers.openlibrary.org/b/id/10521217-L.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "image": "https://covers.openlibrary.org/b/id/8225631-L.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "image": "https://covers.openlibrary.org/b/id/11009368-L.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "https://covers.openlibrary.org/b/id/8786913-L.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "id": 12,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "image": "https://covers.openlibrary.org/b/id/8475455-L.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "image": "https://covers.openlibrary.org/b/id/8317746-L.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "image": "https://covers.openlibrary.org/b/id/10544645-L.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "image": "https://covers.openlibrary.org/b/id/8322924-L.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "image": "https://covers.openlibrary.org/b/id/8504050-L.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "image": "https://covers.openlibrary.org/b/id/8091028-L.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "image": "https://covers.openlibrary.org/b/id/10093269-L.jpg"
+  },
+  {
+    "id": 19,
+    "title": "The Iliad",
+    "author": "Homer",
+    "image": "https://covers.openlibrary.org/b/id/9961842-L.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "image": "https://covers.openlibrary.org/b/id/8231991-L.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Test",
+    "author": "test",
+    "image": "test"
+  },
+  {
+    "id": 22,
+    "title": "test",
+    "author": "test",
+    "image": "test"
+  },
+  {
+    "id": 23,
+    "title": "test",
+    "author": "test",
+    "image": "test"
+  }
+]
